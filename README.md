@@ -50,6 +50,7 @@ This project was made with a course on youtube, the link of the course is given 
 #### Links 
 <a href="https://www.youtube.com/playlist?list=PLKnjBHu2xXNO5SzAdK3y1EWq8Bw8Kmi1L" >Course</a>
 <hr/>
+
 ## License
 
 [MIT](https://github.com/mehmetacisu/CvWebSite/blob/main/LICENSE)
