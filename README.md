@@ -1,5 +1,6 @@
 # CV Web Site
 
+This project was made with a course on youtube, the link of the course is given below.
 
 
 ### Used Technologies
