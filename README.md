@@ -52,6 +52,6 @@ This project was made with a course on youtube, the link of the course is given 
 <hr/>
 ## License
 
-[MIT](https://github.com/mehmetacisuu/TourSharingSite/blob/main/LICENSE)
+[MIT](https://github.com/mehmetacisu/CvWebSite/blob/main/LICENSE)
 
   
